@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Amrut. 👋
 
 <!--
 **Amrut2/Amrut2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/Amrut2"><img src="https://api.daily.dev/devcards/50268a0adc3d4418a437fcd980e42613.png?r=19o" width="400" alt="Amrut2's Dev Card"/></a>
