@@ -1,8 +1,7 @@
 # Hi there, I am Amrut. 👋
 
 
-
-Here are some ideas to get you started:
+some information about me.
 
 - 🔭 I’m currently working on ... React Development
 - 🌱 I’m currently learning ... Data Structure and Algorithms for coding interviews 
