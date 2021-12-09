@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React Development
-- 🌱 I’m currently learning ... Data STructure and Algorithms
+- 🌱 I’m currently learning ... Data Structure and Algorithms for coding interviews 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Frontend as of now
 - 📫 How to reach me: ... amrutpuyad@gmail.com 
